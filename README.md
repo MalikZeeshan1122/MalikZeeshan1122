@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20828
-Fork on GitHub
-6434
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hi 👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">"Machine Learning And AI Engineer | Data Scientist | Deep Learning Practitioner | Computer Vision | Advancing AI for a Smarter Tomorrow, Harnessing AI to Solve Real-World Challenges, My Company Name BOOM AI"</h3>
 
