@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm Muhammad Zeeshan</h1>
+<h1 align="center">Hi👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">"Machine Learning And AI Engineer | Data Scientist | Deep Learning Practitioner | Computer Vision | Advancing AI for a Smarter Tomorrow, Harnessing AI to Solve Real-World Challenges, My Company Name BOOM AI"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzeeshan1122&label=Profile%20views&color=0e75b6&style=flat" alt="malikzeeshan1122" /> </p>
