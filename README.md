@@ -1,94 +1,108 @@
-<h1 align="center">Hi👋, I'm Muhammad Zeeshan</h1>
-<h3 align="center">"Machine Learning And AI Engineer | Data Scientist | Deep Learning Practitioner | Computer Vision | Advancing AI for a Smarter Tomorrow, Harnessing AI to Solve Real-World Challenges, My Company Name BOOM AI"</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
+<h3 align="center">AI Engineer | ML Researcher | Building Smarter Systems with AI</h3>
+<h4 align="center">Founder @ BOOM AI | Advancing AI Solutions for Real-World Challenges</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzeeshan1122&label=Profile%20views&color=0e75b6&style=flat" alt="malikzeeshan1122" /> </p>
+<p align="center">
+  <a href="https://twitter.com/malikzeesh7398" target="blank">
+    <img src="https://img.shields.io/twitter/follow/malikzeesh7398?style=social" alt="Twitter Follow">
+  </a>
+  <a href="https://linkedin.com/in/muhammadzeeshan007">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:malikzeeshan3.1417@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email">
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikzeeshan1122" alt="malikzeeshan1122" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/https://x.com/malikzeesh7398" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/malikzeesh7398?logo=twitter&style=for-the-badge" alt="https://x.com/malikzeesh7398" /></a> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [Machine learning Engineer](https://www.google.co.uk/)
+- 🔭 Currently building AI solutions at **BOOM AI**
+- 🌱 Deep diving into **Generative AI, Computer Vision & LLMs**
+- 👯 Looking to collaborate on **impactful AI projects**
+- 💬 Ask me about **ML deployment, NLP, or AI architecture**
+- ⚡ Fun fact: **I automate everything I can!**
 
-- 🌱 I’m currently learning **Machine learning,Deep learning, NLP, Computer Vision, Generative AI**
+📄 [View My Resume](https://drive.google.com/file/d/1oPe5OX47gXrpaY6jgmdFZMEowBaCxu2w/view)
 
-- 👯 I’m looking to collaborate on **Artificial intelligence**
+---
 
-- 📫 How to reach me **malikzeeshan3.1417@gmail.com**
+## 🛠 Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oPe5OX47gXrpaY6jgmdFZMEowBaCxu2w/view](https://drive.google.com/file/d/1oPe5OX47gXrpaY6jgmdFZMEowBaCxu2w/view)
+### 🤖 AI Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=white)
 
-- ⚡ Fun fact **I am Code Maker**
+### 💾 Vector Databases
+![FAISS](https://img.shields.io/badge/FAISS-010101?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=flat)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A98F?style=flat)
 
-### Blogs posts
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+
+### 🛠️ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malikzeeshan1122&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=malikzeeshan1122&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malikzeeshan1122&theme=onedark&row=2&column=4" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### AI Frameworks & Tools
+- [LangChain Implementation](https://github.com/...) - Custom RAG pipeline for document QA
+- [LLM Fine-Tuning](https://github.com/...) - Optimizing open-source LLMs for specific domains
+- [Computer Vision Pipeline](https://github.com/...) - Real-time object detection system
+
+### Production Deployments
+- [AWS Bedrock Integration](https://github.com/...) - Scalable LLM deployment
+- [MLflow Tracking System](https://github.com/...) - Experiment management platform
+- [DVC Data Versioning](https://github.com/...) - Reproducible ML pipelines
+
+---
+
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building RAG Systems with LangChain](https://medium.com/...)
+- [Optimizing LLM Inference with VLLM](https://medium.com/...)
+- [MLOps Best Practices for Startups](https://medium.com/...)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- AI Frameworks & Libraries -->
-<h3>AI Frameworks & Libraries</h3>
-<ul>
-  <li><a href="https://langchain.com" target="_blank">LangChain</a> – Framework for building LLM applications (RAG, agents, chatbots).</li>
-  <li><a href="https://github.com/langgraph" target="_blank">LangGraph</a> – Graph-based framework for orchestrating LLM workflows.</li>
-  <li><a href="https://haystack.deepset.ai" target="_blank">Haystack</a> – Open-source NLP framework for building search and QA systems.</li>
-  <li><a href="https://gpt-index.readthedocs.io/en/latest/" target="_blank">LlamaIndex</a> – Efficient indexing and retrieval framework for LLM-powered applications.</li>
-  <li><a href="https://huggingface.co/transformers" target="_blank">Transformers (Hugging Face)</a> – Pre-trained models and tokenizers for NLP tasks.</li>
-  <li><a href="https://www.sbert.net" target="_blank">SentenceTransformers</a> – Library for creating embeddings and similarity search.</li>
-</ul>
+---
 
-<!-- Vector Databases -->
-<h3>Vector Databases (For RAG & Search)</h3>
-<ul>
-  <li><a href="https://github.com/facebookresearch/faiss" target="_blank">FAISS</a> – High-speed nearest neighbor search.</li>
-  <li><a href="https://www.chromadb.com" target="_blank">ChromaDB</a> – Open-source embedding database optimized for AI apps.</li>
-  <li><a href="https://www.pinecone.io" target="_blank">Pinecone</a> – Managed vector database with real-time retrieval.</li>
-  <li><a href="https://www.weaviate.io" target="_blank">Weaviate</a> – Scalable vector search engine with built-in ML models.</li>
-  <li><a href="https://qdrant.tech" target="_blank">Qdrant</a> – Fast, scalable vector database for semantic search.</li>
-  <li><a href="https://milvus.io" target="_blank">Milvus</a> – Open-source vector search engine designed for large-scale AI.</li>
-</ul>
+## 🤝 Let's Connect
 
-<!-- Cloud & AI APIs -->
-<h3>Cloud & AI APIs</h3>
-<ul>
-  <li><a href="https://aws.amazon.com/bedrock" target="_blank">AWS Bedrock</a> – Serverless LLM deployment platform.</li>
-  <li><a href="https://aws.amazon.com/sagemaker" target="_blank">AWS SageMaker</a> – ML model training, deployment, and monitoring.</li>
-  <li><a href="https://cloud.google.com/vertex-ai" target="_blank">Google Vertex AI</a> – AI model training, tuning, and deployment.</li>
-  <li><a href="https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/" target="_blank">Azure OpenAI Service</a> – Enterprise-grade OpenAI model hosting.</li>
-  <li><a href="https://www.anthropic.com" target="_blank">Anthropic Claude API</a> – Claude AI models for NLP applications.</li>
-  <li><a href="https://cohere.ai" target="_blank">Cohere API</a> – NLP models for text classification, summarization, etc.</li>
-  <li><a href="https://www.groq.com" target="_blank">Groq</a> – Ultra-fast inference engine for LLMs.</li>
-</ul>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadzeeshan007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/malikzeesh7398" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:malikzeeshan3.1417@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<!-- Python AI & LLM Utilities -->
-<h3>Python AI & LLM Utilities</h3>
-<ul>
-  <li><a href="https://openai.com" target="_blank">OpenAI API</a> – GPT-based AI models for chatbots and text generation.</li>
-  <li><a href="https://github.com/vllm-project/vllm" target="_blank">VLLM</a> – Optimized inference for large language models.</li>
-  <li><a href="https://github.com/microsoft/DeepSpeed" target="_blank">DeepSpeed</a> – Microsoft’s library for optimizing deep learning
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikzeeshan1122&" alt="malikzeeshan1122" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-Close Addy AIOpen Addy AI Dashboard
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malikzeeshan1122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
