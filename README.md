@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0D1117,100:161B22&height=120&section=header&text=Muhammad%20Zeeshan&fontSize=52&fontAlignY=50&fontColor=E6EDF3&animation=fadeIn&desc=AI%20Engineer%20%20%E2%80%A2%20%20Agentic%20AI%20Architect%20%20%E2%80%A2%20%20Full%20Stack%20Developer&descSize=16&descAlignY=80&descColor=8B949E" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Muhammad%20Zeeshan&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=AI%20Engineer%20%20%E2%80%A2%20%20Agentic%20AI%20Architect%20%20%E2%80%A2%20%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=E2E8F0" width="100%" />
 </p>
 
 <!-- Animated AI Banner GIF -->
