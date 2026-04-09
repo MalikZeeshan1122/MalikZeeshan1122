@@ -65,7 +65,7 @@
 ```yaml
 name: Muhammad Zeeshan
 role: AI Engineer & Full Stack Developer
-company: Founder @ BOOM AI
+company: Founder @ ZorceX
 location: Pakistan 🇵🇰
 
 currently_building:
