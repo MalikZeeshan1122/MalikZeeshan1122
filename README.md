@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=ZorceX%20AI%20•%20Muhammad%20Zeeshan&fontSize=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Founder%20%26%20CEO%20%20%E2%80%A2%20%20Agentic%20AI%20Architect%20%20%E2%80%A2%20%20Full%20Stack%20AI%20Engineer&descSize=16&descAlignY=58&descColor=E2E8F0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Muhammad%20Zeeshan&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=AI%20Engineer%20%20%E2%80%A2%20%20Agentic%20AI%20Architect%20%20%E2%80%A2%20%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=E2E8F0" width="100%" />
 </p>
 
 <!-- Animated AI Banner GIF -->
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Founder+%26+CEO+@+ZorceX+AI+|+Building+the+Future+with+AI;🤖+LLMs+•+AI+Agents+•+Agentic+AI+•+RAG+Systems;💻+Full+Stack+•+Cloud+Native+•+MLOps+•+GenAI;🔬+Turning+Ideas+into+Autonomous+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Founder+%40+BOOM+AI+%7C+Building+the+Future+with+AI;%F0%9F%A4%96+LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+Systems;%F0%9F%92%BB+Full+Stack+%E2%80%A2+Cloud+Native+%E2%80%A2+MLOps+%E2%80%A2+GenAI;%F0%9F%94%AC+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
