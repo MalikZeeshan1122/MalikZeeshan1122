@@ -64,6 +64,87 @@ I'm a Full Stack AI Engineer and founder of **ZorceX**, focused on taking machin
 
 ---
 
+## AI &amp; Machine Learning Expertise
+
+A full-spectrum ML practitioner — from mathematical foundations and classical models to transformer internals, LLM engineering, and aligned, production-grade systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Classical ML &amp; Statistics
+- Regression, SVM, Random Forests, Gradient Boosting
+- PCA, K-Means &amp; unsupervised learning
+- Feature engineering &amp; selection
+- Bias–variance, regularization, cross-validation
+- Probabilistic modeling &amp; Bayesian inference
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Deep Learning
+- CNNs, RNNs / LSTMs, Autoencoders, GANs
+- Transformers &amp; attention mechanisms
+- Optimization (Adam, schedulers, mixed precision)
+- Transfer learning &amp; representation learning
+- Computer vision &amp; multimodal models
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 LLM &amp; NLP Engineering
+- Tokenization, embeddings &amp; context engineering
+- Transformer architectures from scratch
+- Retrieval-Augmented Generation (advanced RAG)
+- Structured outputs, function calling, tool use
+- Prompt engineering &amp; reasoning (ReAct, CoT, ToT)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Fine-Tuning &amp; Alignment
+- LoRA / QLoRA / PEFT &amp; full fine-tuning
+- SFT, RLHF, DPO alignment pipelines
+- Quantization (GPTQ, AWQ, GGUF, FP8/INT8)
+- Distillation &amp; inference optimization
+- Unsloth, Axolotl, Kohya_ss training stacks
+
+</td>
+</tr>
+</table>
+
+### 📊 Evaluation, Observability &amp; Guardrails
+`RAGAS` · `DeepEval` · `Braintrust` · `Weights & Biases` · `MLflow` · `Langfuse` · `Phoenix / Arize` · `Guardrails AI` · `Llama Guard`
+
+### 🏗️ Production ML System Architecture
+
+```mermaid
+flowchart LR
+    A["📥 Data Sources<br/>docs · APIs · streams"] --> B["🧹 Ingestion &<br/>Preprocessing"]
+    B --> C["🔢 Embeddings &<br/>Feature Store"]
+    C --> D[("🗄️ Vector DB<br/>pgvector · Pinecone")]
+
+    Q["🧑‍💻 User Query"] --> R["🔁 Hybrid Retrieval<br/>+ Re-ranking"]
+    D --> R
+    R --> O["🧠 LLM Orchestrator<br/>agents · tools · memory"]
+    O --> G["🛡️ Guardrails &<br/>Eval Hooks"]
+    G --> RESP["📤 Grounded Response"]
+
+    O -.-> M["📈 Observability<br/>Langfuse · traces · cost"]
+    G -.-> M
+    M -.-> FB["🔄 Feedback &<br/>Continuous Eval"]
+    FB -.-> B
+
+    style O fill:#6366f1,color:#fff
+    style D fill:#06b6d4,color:#fff
+    style G fill:#ef4444,color:#fff
+    style M fill:#8b5cf6,color:#fff
+```
+
+---
+
 ## Tech Stack
 
 **AI / LLM**  
@@ -75,6 +156,16 @@ I'm a Full Stack AI Engineer and founder of **ZorceX**, focused on taking machin
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+
+**Machine Learning & Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Languages & Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -106,6 +197,8 @@ I'm a Full Stack AI Engineer and founder of **ZorceX**, focused on taking machin
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FDB515?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 
